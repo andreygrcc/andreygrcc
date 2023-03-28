@@ -21,8 +21,10 @@ Focado atualmente em Node.js e React.js, estou sempre em busca de novas experiê
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreygrcc&layout=compact&theme=dracula" />
 </a>
-<img align="right" alt="php" height="180" width="180" src="https://cdn.discordapp.com/attachments/625493591606689835/1090373183854616726/image.png" /> 
+<img align="right" alt="php" height="180" width="180" src="https://cdn.discordapp.com/attachments/399751931687469056/1090403745122242620/icon_andrey_github.png" /> 
 </div> 
+
+![Snake animation](https://github.com/andreygrcc/andreygrcc/blob/output/github-contribution-grid-snake.svg)
 
 
 
