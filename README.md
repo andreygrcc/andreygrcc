@@ -3,7 +3,7 @@
 Atuo como fullstack dev e moro em Belo Horizonte - MG. Apaixonado por desenvolvimento e buscando sempre estar alinhado com as melhores práticas do mercado para entregar o melhor possível nos projetos e equipes que estou.
 Focado atualmente em Node.js e React.js, estou sempre em busca de novas experiências e aprendizados.
 
-##
+## Tecnologias e ferramentas
 <br>
 <div class="techs">
 <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -27,7 +27,12 @@ Focado atualmente em Node.js e React.js, estou sempre em busca de novas experiê
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreygrcc&layout=compact&theme=dracula" />
 </a>
-
+  
+##Contatos
+<div>
+<a href = "mailto:andreygiovannircc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andrey-castilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 </div> 
 
 
