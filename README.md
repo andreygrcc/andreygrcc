@@ -1,6 +1,6 @@
 ## Olá, meu nome é Andrey Castilho!👋
 
-Atuo como fullstack dev com experiências em Desenvolvimento e Integração de API's e desenvolvimento web. possuo conhecimentos em TypeScript, Node, Nest, javascript e php. estou sempre em busca de novas experiências e aprendizados, buscando sempre estar alinhado com as melhores práticas do mercado para entregar o melhor possível nos projetos e equipes que estou.
+Atuo como fullstack dev com experiências em Desenvolvimento e Integração de API's e desenvolvimento web. possuo conhecimentos em TypeScript, Node, Nest, javascript e php. Sempre em busca de novas experiências e aprendizados, alinhado com as melhores práticas do mercado para entregar o melhor possível nos projetos e equipes que estou alocado.
 
 ## 
 <br>
