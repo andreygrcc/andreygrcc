@@ -1,6 +1,6 @@
 ## Olá, meu nome é Andrey Castilho!👋
 
-Atuo como desenvolvedor BackEnd com experiências em desenvolvimento e integração de API's e desenvolvimento web. Possuo conhecimentos em TypeScript, Node, Nest, javascript e php. Sempre em busca de novas experiências e aprendizados, alinhado com as melhores práticas do mercado para entregar o melhor possível nos projetos e equipes que estou alocado.
+Desenvolvedor com experiência em Desenvolvimento Web, Desenvolvimento e Integração de APIs e design. Sempre estudando algo novo e buscando pessoas e equipes para crescer juntos. Minhas tecnologias principais são Node.js, Typescript, React e PHP, possuo também amplo conhecimento com prototipação em Figma e UX/UI e já tive experiências com outras linguagens como C#, React e Golang.
 
 ## 
 <br>
